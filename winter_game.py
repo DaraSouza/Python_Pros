@@ -1,0 +1,1 @@
+int(input("Welcome to Winter Wonderland! Here you can play tons of games and win prizes!"))

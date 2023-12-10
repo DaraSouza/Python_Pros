@@ -1,5 +1,5 @@
-def add(a,b):
+def add(a, b):
     return a + b
-a = 8
-b = 5
-print(a + b)
+x = 8
+y = 5
+print(add(x, y))
